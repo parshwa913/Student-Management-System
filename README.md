@@ -11,7 +11,7 @@ This project aims to streamline student management for educational institutions 
 
 This project was originally created by Parshwa Herwade on 24-03-2025.
 
-All original code and design are the intellectual property of Parshwa Herwade.
+All original code & design are the intellectual property of Parshwa Herwade.
 
 ---
 ## License
