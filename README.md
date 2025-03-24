@@ -7,6 +7,18 @@ The **Student Management Information System (MIS)** is a robust solution built u
 This project aims to streamline student management for educational institutions by providing a user-friendly interface to manage student records, instructors, and administrative tasks.
 
 ---
+## Original Author
+
+This project was originally created by Parshwa Herwade on 24-03-2025.
+
+All original code and design are the intellectual property of Parshwa Herwade.
+
+---
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
 
 ## 🚀 Features
 
